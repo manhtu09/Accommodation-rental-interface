@@ -1,0 +1,242 @@
+body{
+    padding:0;
+    margin:0;
+    background-color:#ffffff;
+}
+.container{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    background-color: #000000;
+    border-radius: 40px;
+    width: 430px;
+    height:1240px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 30px 50px 100px #85888C;
+}
+.content{
+    border: 1px solid #ffffff   ;
+    border-radius: 20px;
+    width: 94%;
+    height: 97%;
+    background-color:#FFFFFF;
+    overflow:hidden;
+    
+}
+.StatusBar{
+    width: 430px;
+    height: 49px;
+}
+.k900{
+    float:right;
+    margin-top:-75px;
+    margin-right: 40px;
+}
+.l900{
+    float:right;
+    margin-top:-75px;
+    margin-right: 70px;
+}
+.p900{
+    float:right;
+    margin-top:-75px;
+    margin-right: 90px;
+}
+
+.StatusBar h5{
+    width: 40px;
+    height: 49px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+  
+}
+.banner{
+    width:403px;
+    height:65px;
+    background-color:#BAD7BB;
+    border:1px solid black;
+    border-radius: 0px 0px 30px 30px;
+    box-shadow:0px 0px 15px 2px  #85888C;
+}
+.b1{
+    float:left;
+    margin-top: -10px;
+    margin-left: 20px;
+}
+.b2{
+    float:left;
+    margin-left: 100px;
+    margin-top: -10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.search-box input{
+    width:396px;
+    height:49px;
+    border-radius: 30px;
+    float:left;
+    margin-left: 0.5px;
+    margin-top: 20px;
+}
+.b4{
+    float:right;
+    margin-right: 15px;
+    margin-top: -42px;
+}
+.f1{
+    width:50px;
+    height:22px;
+    font-weight: 400;
+    border-radius: 5px;
+    float:left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.f2{
+    float:left;
+}
+.f3{
+    width:39px;
+    height:22px;
+    border-radius: 5px;
+    float:left;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.f4{
+    width:120px;
+    height:22px;
+    border-radius: 5px;
+    float:left;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.f5{
+    width:85px;
+    height:22px;
+    border-radius: 5px;
+    float:left;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.f6{
+    width:80px;
+    height:22px;
+    border-radius: 5px;
+    float:left;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 10px;
+}
+.f7{
+    width:100%;
+    margin-top: 15px;
+   
+}
+.b-c-t-d-p{
+    width:389px;
+    height:79px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    position:absolute;
+    float:left;
+    margin-left: 5px;
+    margin-top: -90px;
+}
+.f8{
+    float:left;
+    font-size: 15px;
+    font-weight: 600;
+    color:#D9D9D9;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.f9{
+    float:left;
+    font-size: 15px;
+    color:#D9D9D9;
+    margin-top: 30px;
+    margin-left: -174px;
+}
+.f10{
+    font-size: 15px;
+    font-weight: bolder;
+    color:#0da481;
+    float:left;
+    margin-top: 30px;
+    margin-left: -30px;
+}
+.f11{
+    float:left;
+    font-size: 15px;
+    color:#D9D9D9;
+    margin-top: 55px;
+    margin-left: -179px;
+}
+.form-group{
+    width:400px;
+    height:102px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin: 2vh auto;
+}
+.f12{
+    float:left;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.f13{
+    float:right;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 30px;
+    margin-top: 5px;
+}
+.f14{
+    float:right;
+    font-size: 15px;
+    font-weight: 600;
+    color:#0CF84E;
+    margin-right: 250px;
+    margin-top: -5px;
+}
+.f15{
+    float:right;
+    font-size: 15px;
+    font-weight: 200;
+    color:#0000007c;
+    margin-right: 40px;
+    margin-top: -33px;
+}
+.f16{
+    float:right;
+    font-size: 15px;
+    font-weight: 600;
+    color:#FF0000;
+    margin-right: 235px;
+    margin-top: -5px;
+}
+.f17{
+    float:right;
+    font-size: 15px;
+    font-weight: 600;
+    color:#000000;
+    margin-right: 95px;
+    margin-top: -33px;
+}
+.f18{
+    text-align: center;
+    margin-top: 200px;
+}
+.line-footer{
+    width:134px;
+    height:8px;
+    background-color: #000000;
+    border-radius: 100px;
+    margin:18vh auto;
+  }

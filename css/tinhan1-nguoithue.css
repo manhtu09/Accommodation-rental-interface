@@ -1,0 +1,360 @@
+body{
+    padding:0;
+    margin:0;
+    background-color:#ffffff;
+}
+.container{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    background-color: #000000;
+    border-radius: 40px;
+    width: 430px;
+    height:1132px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 30px 50px 100px #85888C;
+}
+.content{
+    border: 1px solid #ffffff   ;
+    border-radius: 20px;
+    width: 94%;
+    height: 97%;
+    background-color:#FFFFFF;
+    overflow:hidden;
+    
+}
+.StatusBar{
+    width: 430px;
+    height: 49px;
+}
+.k900{
+    float:right;
+    margin-top:-80px;
+    margin-right: 40px;
+}
+.l900{
+    float:right;
+    margin-top:-80px;
+    margin-right: 70px;
+}
+.p900{
+    float:right;
+    margin-top:-80px;
+    margin-right: 90px;
+}
+
+.StatusBar h5{
+    width: 40px;
+    height: 49px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+  
+}
+hr{
+    margin-top: -23px;
+}
+.l1{
+    font-size:30px;
+    font-weight: bold;
+   float:left;
+   margin-left: 125px;
+    margin-top:-35px;
+}
+
+input{
+    width:300px;
+    height:30px;
+    display:block;
+    border-radius: 25px;
+    font-size: 20px;
+    padding: 8px 40px 8px 20px;
+    border: none;
+    box-shadow: 0 1px 2px 0px black;
+    margin-left:24px;
+}
+input::focus{
+    outline:none;
+}
+button{
+    position:absolute;
+    margin-left:10px;
+    margin-top: -1px;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    background: none; 
+    font-size: 15px;
+}
+button i{
+    color:aquamarine;
+}
+.av1{
+    width: 400px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.d-c-c-n{
+    width:400px;
+    height:71px;
+    margin: 2vh auto;
+}
+.r1{
+    font-size: 20px;
+    font-weight: bold;
+    color:#000000;
+    float:right;
+    margin-top: -80px;
+    margin-right: 160px;
+}
+.r2{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 142px;
+}
+.r3{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 40px;
+}
+.d-c-c-n-1{
+    width:400px;
+    height:71px;
+    margin: 2vh auto;
+}
+.r4{
+    font-size: 20px;
+    font-weight: bold;
+    color:#000000;
+    float:right;
+    margin-top: -80px;
+    margin-right: 182px;
+}
+.r5{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 156px;
+}
+.r6{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 40px;
+}
+.d-c-c-n-2{
+    width:400px;
+    height:71px;
+    margin: 2vh auto;
+}
+.r7{
+    font-size: 20px;
+    font-weight: bold;
+    color:#000000;
+    float:right;
+    margin-top: -80px;
+    margin-right: 160px;
+}
+.r8{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 96px;
+}
+.r9{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 40px;
+}
+.d-c-c-n-3{
+    width:400px;
+    height:71px;
+    margin: 2vh auto;
+}
+.r10{
+    font-size: 20px;
+    font-weight: bold;
+    color:#000000;
+    float:right;
+    margin-top: -80px;
+    margin-right: 237px;
+}
+.r11{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 96px;
+}
+.r12{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 40px;
+}
+.d-c-c-n-4{
+    width:400px;
+    height:71px;
+    margin: 2vh auto;
+}
+.r13{
+    font-size: 20px;
+    font-weight: bold;
+    color:#000000;
+    float:right;
+    margin-top: -80px;
+    margin-right: 222px;
+}
+.r14{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 92px;
+}
+.r15{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 40px;
+}
+.d-c-c-n-5{
+    width:400px;
+    height:71px;
+    margin: 2vh auto;
+}
+.r16{
+    font-size: 20px;
+    font-weight: bold;
+    color:#000000;
+    float:right;
+    margin-top: -80px;
+    margin-right: 188px;
+    text-shadow:2px 2px 3px #0BFFF0, 
+    -2px -2px 3px #0BFFF0, 
+    2px -2px 3px #0BFFF0, 
+    -2px 2px 3px #0BFFF0;
+}
+.r17{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 120px;
+}
+.r18{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 40px;
+}
+.d-c-c-n-6{
+    width:400px;
+    height:71px;
+    margin: 2vh auto;
+}
+.r19{
+    font-size: 20px;
+    font-weight: bold;
+    color:#000000;
+    float:right;
+    margin-top: -80px;
+    margin-right: 200px;
+}
+.r20{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 110px;
+}
+.r21{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 40px;
+}
+.d-c-c-n-7{
+    width:400px;
+    height:71px;
+    margin: 2vh auto;
+}
+.r22{
+    font-size: 20px;
+    font-weight: bold;
+    color:#000000;
+    float:right;
+    margin-top: -80px;
+    margin-right: 192px;
+}
+.r23{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 118px;
+}
+.r24{
+    font-size: 15px;
+    font-weight: 400;
+    color:#000000;
+    float:right;
+    margin-top: -50px;
+    margin-right: 40px;
+}
+.nav-footer{
+    width:407px;
+    height: 54px;
+   border: 1px solid black;
+   background-color: #ffffff;
+    border-radius:10px 10px 0px 0px;
+    margin: 5vh auto;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+  }
+  .nav-footer img{
+    padding:1%;
+    margin-top: 10px;
+  }
+  .line-footer{
+    width:134px;
+    height:8px;
+    background-color: #000000;
+    border-radius: 100px;
+    margin: -3vh auto;
+}

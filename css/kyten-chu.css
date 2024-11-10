@@ -1,0 +1,120 @@
+.container{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    background-color: black;
+    border-radius: 40px;
+    width: 430px;
+    height:990px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 30px 50px 100px #ffffff;
+}
+.content{
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    width: 94%;
+    height: 97%;
+    background-color:#ffffff;
+    overflow:hidden;
+    
+}
+.container h1 {
+    margin: 5%;
+    float: left;
+    font-size:20px;
+    
+}
+.container h2{
+    float: right;
+   margin-right: 15px;
+    
+}
+.container nav99 form fieldset{
+    height: 40px;
+    margin-top: 1px;
+    width: 382px;
+    margin-left: -4px;
+    float: left;
+    background-color: #BAD7BB;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.container nav99 form fieldset h3{
+    margin: 110px;
+    margin-top: 7px;
+    margin-left: 160px;
+    font-size: 20px;
+    float: left;
+}
+.container nav99 form fieldset img{
+  float: left;
+  width: 25px;
+  margin-top: -132px;
+  margin-left: 19px;
+}
+.container nav1 {
+    float: left;
+    margin-top: 15px;
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.container nav2 {
+    float: left;
+    margin-top: 1px;
+    font-size: 17px;
+    font-weight: 100;
+    margin-left: 10px;
+}
+.container nav3 img {
+    float: left;
+    margin-left: 10px;
+    width: 380px;
+    margin-top: 10px;
+}
+.container nav4 img {
+    float: left;
+    margin-left: 10px;
+    width: 380px;
+    margin-top: -450px;
+    width: 260px;
+    margin-left: 70px;
+}
+.container nav5 fieldset {
+    float: left;
+    width: 130px;
+    height: 25px;
+    border-radius: 10px;
+    background-color: #C34A06;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.container nav5 fieldset h1 {
+    float: left;
+    color: #ffffff;
+}
+.container nav6 fieldset {
+    float: left;
+    width: 130px;
+    height: 25px;
+    border-radius: 10px;
+    background-color: #01A730;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.container nav6 fieldset h1 {
+    float: left;
+    color: #ffffff;
+    margin-left: 20px;
+}
+.container nav7 img {
+    float: left;
+    margin-top: 18px;
+    margin-left: 135px;
+}
+

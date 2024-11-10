@@ -1,0 +1,164 @@
+body{
+    padding:0;
+    margin:0;
+    background-color:#ffffff;
+}
+.container{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    background-color: #000000;
+    border-radius: 40px;
+    width: 430px;
+    height:1000px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 30px 50px 100px #85888C;
+}
+.content{
+    border: 1px solid #ffffff   ;
+    border-radius: 20px;
+    width: 94%;
+    height: 95%;
+    background-color:#FFFFFF;
+    overflow:hidden;
+
+}
+.back{
+    margin-top:-9px;
+    border-radius:0px 0px 40px 0px;
+    width: 403px;
+    height:50px;
+    border-bottom: 1px solid #000000;
+    border-right: 1px solid #000000;
+}
+
+
+.back span{
+    float:right;
+    font-size:137.5%;
+    margin-top:-35px;
+    margin-right: 200px;
+    font-weight: bold;
+   
+    
+}
+.content h1{
+    font-size: 35px;
+    text-align: center;
+    margin-top: -60px;
+    color:#510202;
+}
+.content button{
+    width:223px;
+    height:47px;
+   border-radius: 10px;
+   color:white;
+   font-weight: bold;
+   font-size: 20px;
+}
+.content h2{
+    font-size: 35px;
+    text-align: center;
+    margin-top:40px;
+    color:#510202;
+}
+.content label{
+    font-size: 20px;
+    float:left;
+    margin-left: 23px;
+}
+.content input{
+    width:357px;
+    height:44px;
+    border-radius: 20px;
+}
+.content a{
+    float:right;
+    margin-right: 25px;
+    color:#185244;
+    
+}
+#h300{
+    width:206px;
+    height:47px;
+    border-radius: 15px;
+   margin-top: 45px;
+  margin-left: 160px;
+  background-color: #01A730;
+  font-size: 20px;
+  color:#ffffff;
+  font-weight: bold;
+}
+.content fieldset{
+    text-align: center;
+    border-top: 1px solid black; 
+    border-bottom:none;
+    border-left: none;
+    border-right: none;
+}
+.n400{
+    width:56px;
+    padding:1%;
+    margin-left: 50px;
+}
+.content p{
+    width:200px;
+    height:10px;
+    margin-left: 70px;
+    font-size: 20px;
+}
+.j300{
+    width:80px;
+    height:14px;
+    font-size: 20px;
+    margin-top: -30px;
+    padding-right: 40px;
+    color:#185244;
+}
+.c800{
+    position: absolute;
+}
+.back a button{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    float:left;
+    margin-top: 5px;
+    margin-left: 10px;
+    
+}
+.StatusBar{
+    width: 430px;
+    height: 49px;
+}
+.k900{
+    float:right;
+    margin-top:-80px;
+    margin-right: 40px;
+}
+.l900{
+    float:right;
+    margin-top:-80px;
+    margin-right: 70px;
+}
+.p900{
+    float:right;
+    margin-top:-80px;
+    margin-right: 90px;
+}
+
+.StatusBar h5{
+    width: 40px;
+    height: 49px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+  
+}
+hr{
+    margin-top: -23px;
+}

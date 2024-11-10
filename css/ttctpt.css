@@ -1,0 +1,337 @@
+.container{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    background-color: #36383F;
+    border-radius: 40px;
+    width: 430px;
+    height:1090px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 30px 50px 100px #ffffff;
+}
+.content{
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    width: 94%;
+    height: 97%;
+    background-color:#ffffff;
+    overflow:hidden;
+    
+}
+.container h1 {
+    margin: 5%;
+    font-size: 170%;
+    margin-top: 1%;
+}
+.container h2{
+    float: right;
+    margin: 5%;
+    margin-top: -13%;
+}
+
+.container action{
+    margin-top: -2%;
+}
+.container b form fieldset{
+    height: 40px;
+    margin-top: 1px;
+    width: 382px;
+    margin-left: -3px;
+    float: left;
+    background-color: #BAD7BB;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+.container b form fieldset h3{
+    margin: 93px;
+    margin-top: 7px;
+    
+    width: 200PX;
+}
+.container b form fieldset img{
+  float: left;
+  width: 25px;
+  margin-top: -116px;
+}
+.container nav1{
+    float: left;
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+    margin-top: 15px;
+    margin-left: 140px;
+}
+.container nav2{
+    float: left;
+    font-size: 20px;
+    margin-top:5px;
+    margin-left: 130px;
+}
+.container hr{
+    width: 363px;
+    margin-top: 300px; 
+}
+.container nav3 img {
+    float: left;
+    margin-left: -250px;
+    margin-top: 44px;
+}
+.container nav4 {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: -195px;
+    margin-top: 55px;
+}
+.container nav5 {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: -1px;
+    margin-top: 55px;
+}
+.container nav6 hr  {
+    margin-top: 30px;
+    float: left;
+    margin-left: 13px;
+    width: 379px;
+}
+.container nav7  {
+    margin-top: 20px;
+    float: left;
+    margin-left: 13px;
+    width: 379px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.container nav8  {
+    margin-top: -20px;
+    float: left;
+    margin-left: 90px;
+    width: 379px;
+    font-size: 17px;
+    
+}
+.container nav9  {
+    margin-top: -20px;
+    float: left;
+    margin-left: 310px;
+    width: 379px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.container nav10 {
+    margin-top: -20px;
+    float: left;
+    margin-left: 322px;
+    width: 379px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.container nav11  {
+    margin-top: -20px;
+    float: left;
+    margin-left: 65px;
+    width: 379px;
+    font-size: 17px;   
+}
+.container nav12  {
+    margin-top: -20px;
+    float: left;
+    margin-left: 180px;
+    width: 379px;
+    font-size: 17px;   
+}
+.container nav13 fieldset{
+    width: 30px;
+    height: 10px;
+    border-radius: 10px;
+    float: left;
+    margin-left: 240px;
+    margin-top: -26px;
+}
+.container nav14 {
+    margin-top: -20px;
+    float: left;
+    margin-left: 330px;
+    width: 379px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.container nav15 hr  {
+    margin-top: 1px;
+    float: left;
+    margin-left: 13px;
+    width: 379px;
+}
+.container nav16 {
+    margin-top: -20px;
+    float: left;
+    margin-left: 330px;
+    width: 379px;
+    font-size: 17px;
+    font-weight: bold;
+    color: red;
+}
+.container nav17  {
+    margin-top: 20px;
+    float: left;
+    margin-left: 23px;
+    width: 379px;
+    font-size: 17px;
+}
+.container nav18 fieldset  {
+    float: left;
+    margin-left: 30px;
+margin-top: 10px;
+height: 10px;
+    border-radius: 10px;
+}
+.container nav18 fieldset h1 {
+    float: left;
+    font-size: 15px;
+    
+    width: 140px;
+margin-top: -2px;
+}
+.container nav19  {
+    margin-top: -20px;
+    float: left;
+    margin-left: 223px;
+    width: 379px;
+    font-size: 17px;
+}
+.container nav20 fieldset  {
+    float: left;
+    margin-left: 286px;
+margin-top: -30px;
+height: 10px;
+    border-radius: 10px;
+}
+.container nav20 fieldset h1 {
+    float: left;
+    font-size: 15px;
+    width: 70px;
+margin-top: -2px;
+}
+.container nav21 img {
+    float: left;
+    margin-left: 30px;
+margin-top: 10px;
+}
+.container nav22 hr  {
+    margin-top: 10px;
+    float: left;
+    margin-left: 13px;
+    width: 379px;
+}
+.container nav23 {
+    float: left;
+    margin-top: 10px;
+    margin-left: 48px;
+} 
+.container nav24 {
+    float: left;
+    margin-top: 10px;
+    margin-left: 48px;
+    color: red;
+} 
+.container nav25 {
+    float: left;
+    margin-top: 12px;
+    margin-left: 6px;
+    
+} 
+.container nav26 {
+    float: left;
+    margin-top: 12px;
+    margin-left: 6px;
+    color: blue;
+} 
+.container nav27 {
+    float: left;
+    margin-top: 12px;
+    margin-left: 6px;
+} 
+.container nav28 {
+    float: left;
+    margin-top: 12px;
+    margin-left: 6px;
+    color: rgb(0, 255, 170);
+} 
+.container nav29 hr  {
+    margin-top: 10px;
+    float: left;
+    
+    width: 419px;
+}
+.container nav30  {
+    margin-top: 20px;
+    float: left;
+    margin-left: 13px;
+    width: 379px;
+    font-size: 27px;
+    font-weight: bold;
+}
+.container nav31 {
+    margin-top: -30px;
+    float: left;
+    margin-left: 260px;
+    width: 379px;
+    font-size: 27px;
+    font-weight: bold;
+    color: blue;
+}
+.container nav33{
+    float: left;
+    font-size: 15px;
+    margin-top: 3px;
+    margin-left: 13px;
+}
+.container nav34{
+    float: left;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 23px;
+}
+.container nav35 a fieldset {
+    float: left;
+    width: 130px;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 17px;
+    background-color: rgb(66, 66, 255);
+}
+.container nav35 a fieldset h1 {
+    float: left;
+    margin-left: 37px;
+   color: #ffffff;
+}
+.container nav36 a fieldset {
+    float: left;
+    width: 130px;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 27px;
+    background-color: rgb(0, 218, 15);
+}
+.container nav36 a fieldset h1 {
+    float: left;
+    margin-left: 13px;
+   color: #ffffff;
+   width: 110px;
+}
+.container nav37 img {
+    float: left;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+

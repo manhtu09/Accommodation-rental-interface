@@ -1,0 +1,516 @@
+.container{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    background-color: black;
+    border-radius: 40px;
+    width: 430px;
+    height:5720px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 30px 50px 100px #ffffff;
+}
+.content{
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    width: 94%;
+    height: 97%;
+    background-color:#ffffff;
+    overflow:hidden;
+    
+}
+.container h1 {
+    margin: 5%;
+    float: left;
+    font-size:20px;
+    margin-top: px;
+}
+.container h2{
+    float: right;
+   margin-right: 15px;
+    
+}
+.container nav99 form fieldset{
+    height: 40px;
+    margin-top: -20px;
+    width: 382px;
+    margin-left: -4px;
+    float: left;
+    background-color: #BAD7BB;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.container nav99 form fieldset h3{
+    margin: 110px;
+    margin-top: 7px;
+    margin-left: 70px;
+    font-size: 20px;
+    float: left;
+    width: 300px;
+}
+.container nav99 form fieldset img{
+  float: left;
+  width: 25px;
+  margin-top: -132px;
+  margin-left: 9px;
+}
+.container nav1 {
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 25px;
+    margin-left:20px ;
+}
+.container nav2 {
+    float: left;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left:170px;
+    font-weight: 700;
+}
+.container nav3 {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 75px;
+}
+.container nav4 hr {
+    float: left;
+    width: 240px;
+    margin-top: -2px;
+    margin-left: 77px;
+}
+.container nav5 {
+    float: right;
+    font-size: 20px;
+    margin-right: 15px;
+}
+.container nav6 {
+    float: left;
+    margin-top: 10px;
+    margin-left: 86px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.container nav7 {
+    float: left;
+    font-size: 19px;
+    margin-left: 10px;
+    width: 400px;
+}
+.container nav8 {
+    float: left;
+    font-size: 19px;
+    margin-left: 10px;
+    width: 400px;
+}
+.container nav9 {
+    float: left;
+    font-size: 19px;
+    margin-left: 10px;
+    width: 400px;
+}
+.container nav10 {
+    float: left;
+    font-size: 19px;
+    margin-left: 10px;
+    width: 400px;
+    font-weight: 600;
+}
+.container nav11 {
+    float: left;
+    font-size: 20px;
+    margin-left: 10px;
+    width: 400px;
+    font-weight: 700;
+}
+.container nav12 {
+    float: left;
+    font-size: 20px;
+    margin-left: 10px;
+    width: 400px;
+    font-weight: 700;
+}
+.container nav13 {
+    float: left;
+    font-size: 20px;
+    margin-left: 10px;
+    width: 400px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.container nav14 {
+    float: left;
+    font-size: 20px;
+    margin-left: 10px;
+    width: 400px;
+    font-weight: 400;
+    margin-top: 2px;
+}
+.container nav15 {
+    float: left;
+    font-size: 20px;
+    margin-left: 10px;
+    width: 400px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.container nav16 {
+    float: left;
+    font-size: 20px;
+    margin-left: 10px;
+    width: 400px;
+    font-weight: 700;
+}
+.container nav17 a img {
+    float: left;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.container h10 {
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-left: -160px; 
+    margin-top: 35px;
+}
+.container h11 {
+    float: left;
+    margin-top: 10px;
+    margin-left: 135px;
+}
+.vung1 h1 {
+    float: left;
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: 100;
+}
+.vung1 h2 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: -20px;
+    margin-left: 10px;
+    float: left;
+}
+.vung1 h3 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: -20px;
+    margin-left: -9px;
+}
+.vung1 h4 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: -20px;
+    margin-left: 7px;
+    float: left;
+}
+.vung1 h5 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: -20px;
+    margin-left: 10px;
+}
+.vung1 h6 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: -57px;
+    margin-left: 200px;
+    float: left;
+}
+.vung1 h7 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: -45px;
+    margin-left: 10px;
+}
+.vung1 h8{
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+.vung1 h9{
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.vung1 h10{
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+}
+.vung2 h1 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.vung2 h2 {
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+.vung2 h3 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+.vung2 h4 {
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+.vung2 h5 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+.vung2 h6 {
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung3 h1 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: -20px;
+}
+.vung3 h2 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung3 h3 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+.vung3 h4 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+.vung3 h5 {
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+.vung3 h6 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung3 h7 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: -20px;
+}
+.vung4 h1 {
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.vung4 h2 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+.vung4 h3 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+.vung4 h4 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+.vung5 h1 {
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+.vung5 h2 {
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung5 h3 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung5 h4 {
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung5 h5 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung6 h1 {
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung6 h2 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung6 h3 {
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung6 h4 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung7 h1 {
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung7 h2 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung7 h3 {
+    float: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung7 h4 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.vung8 h1{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.vung8 h2{
+    float: left;
+    margin-top: 50px;
+    margin-left: -180px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.vung9 h1{
+    float: left;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.vung9 H2{
+    float: left;
+    margin-top: 50px;
+    margin-left: -150px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.vung10 h1 a fieldset{
+    float: left;
+    width: 135px;
+    height: 20px;
+    background-color: rgb(1, 172, 53);
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 95px;
+}
+.vung10 h1 a fieldset h2 {
+font-size: 20px;
+font-weight: bold;
+color: white;
+margin-top: -1px;
+margin-left: 15px;
+    float: left;
+}
+.cuoi img {
+    float: left;
+    margin-left: 132px;
+    margin-top: 39px;
+}

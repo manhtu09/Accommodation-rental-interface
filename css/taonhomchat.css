@@ -1,0 +1,249 @@
+.container{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    background-color: black;
+    border-radius: 40px;
+    width: 430px;
+    height:900px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 30px 50px 100px #ffffff;
+}
+.content{
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    width: 94%;
+    height: 97%;
+    background-color:#ffffff;
+    overflow:hidden;
+    
+}
+.container h1 {
+    margin: 5%;
+    font-size: 170%;
+    margin-top: 1%;
+}
+.container h2{
+    float: right;
+    margin: 5%;
+    margin-top: -13%;
+}
+.container nav1 fieldset{
+    height: 30px;
+    float: left;
+    width: 381px;
+    margin-left: -2px;
+    background-color: rgb(255, 255, 255);
+    border-bottom-right-radius: 78px;
+}
+.container nav1 fieldset img {
+    float: left;
+    width: 40px;
+    margin-top: -2px;
+}
+.container nav1 fieldset h1 {
+    float: left;
+    font-size: 25px;
+}
+.container nav2 fieldset{
+    height: 30px;
+    float: left;
+    width: 331px;
+    margin-top: 20px;
+    border-radius: 40px;
+    margin-left: 20px;
+}
+.container nav2 fieldset img {
+    float: left;
+    
+}
+.container nav2 fieldset h1 {
+   float: left;
+   font-size: 20px;
+    font-weight: lighter;
+    margin-top: 7px;
+}
+.container nav3 fieldset{
+    float: left;
+    width: 90px;
+    height: 20px;
+    border-radius: 13px;
+    margin-top: 15px;
+    margin-left: 60px;
+    border-bottom: n;
+}
+.container nav3 fieldset h1{
+    float: left;
+    width: 90px;
+    height: 20px;
+    font-size: 16px;
+}
+.container nav4 {
+    float: right;
+    font-size: 16px;
+    font-weight: bold;
+margin-top: 24px;
+margin-right: 80px;
+}
+.container hr{
+    float: left;
+    width: 500px;
+    margin-top: -1px;
+}
+.container nav5 img{
+    float: left;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.container nav6{
+    float: left;
+    margin-top: 25px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 52px;
+}
+.container nav7 img{
+    float: left;
+    margin-top: 50px;
+    width: 20px;
+    margin-left: 160px;
+}
+.container nav8 img{
+    float: left;
+    margin-top: 150px;
+    margin-left: -185px;
+}
+.container nav9{
+    float: left;
+    margin-top: 175px;
+    margin-left: -90px;
+    font-size: 20px;
+    font-weight: bold;   
+}
+.container nav10 img{
+    float: left;
+    margin-top: 73px;
+    margin-left: 80px;
+}
+.container nav11 img{
+    float: left;
+    margin-top: 255px;
+    margin-left: -260px;
+}
+.container nav12{
+    float: left;
+    margin-top: 75px;
+    margin-left: 109px;
+    font-size: 20px;
+    font-weight: bold;   
+}
+.container nav13 img{
+    float: left;
+    margin-top: -20px;
+    width: 20px;
+    margin-left: 358px;
+}
+.container nav14 img{
+    float: left;
+    margin-top: 50px;
+    margin-left: 17px;
+}
+.container nav15{
+    float: left;
+    margin-top: -40px;
+    margin-left: 109px;
+    font-size: 20px;
+    font-weight: bold;   
+}
+.container nav16 img{
+    float: left;
+    margin-top: -40px;
+    width: 20px;
+    margin-left: 358px;
+}
+.container nav17 fieldset{
+    border: none;
+    background-color: white;
+    float: left;
+    width: 80px;
+    margin-top: -380px;
+    margin-left: 65px;
+}
+.container nav18 fieldset {
+    float: left;
+    border-bottom: none;
+    border-radius: 5px;
+    width: 380px;
+    margin-left: -1px;
+   height: 70px;
+   margin-top: 145px;
+   background: linear-gradient(to top,#ffffff, #DFF4E4);
+}
+.container nav19 img {
+    float: left;
+    margin-top: -80px;
+}
+.container nav20 img {
+    float: left;
+    margin-top: -80px;
+    margin-left: 50px;
+}
+.container nav21 img {
+    float: left;
+    color: red;
+    margin-top: -79px;
+    margin-left: 53px;
+    width: 10px; 
+}
+.container nav22 a img{
+    float: right;
+    margin-right: 20px;
+    margin-top: -76px;
+}
+.container nav23 img {
+    float: left;
+    margin-top: 10px;
+    margin-left: 138px;
+}
+.container nav25 input{
+    float: right;
+    margin-top: -30px;
+    border-radius: 100%;
+    margin-right: 30px;
+    width: 30px;
+    height: 30px;
+}
+.cb1{
+    margin-top: 55px;
+    width:20px;
+    height:20px;
+    float:right;
+    margin-right: 10px;
+}
+.cb2{
+    margin-top: 175px;
+    width:20px;
+    height:20px;
+    float:right;
+    margin-right: -25px;
+}
+.cb3{
+    margin-top: 75px;
+    width:20px;
+    height:20px;
+    float:right;
+    margin-right: 10px;
+}
+.cb4{
+    margin-top: -40px;
+    width:20px;
+    height:20px;
+    float:right;
+    margin-right: 10px;
+}

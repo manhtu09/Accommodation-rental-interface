@@ -1,0 +1,276 @@
+.container{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    background-color: #36383F;
+    border-radius: 40px;
+    width: 430px;
+    height:1090px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 30px 50px 100px #ffffff;
+}
+.content{
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    width: 94%;
+    height: 97%;
+    background-color:#ffffff;
+    overflow:hidden;
+    
+}
+.container h1 {
+    margin: 5%;
+    float: left;
+    font-size:20px;
+    
+}
+.container h2{
+    float: right;
+   margin-right: 15px;
+    
+}
+.container nav99 form fieldset{
+    height: 40px;
+    margin-top: 1px;
+    width: 382px;
+    margin-left: -3px;
+    float: left;
+    background-color: #BAD7BB;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.container nav99 form fieldset h3{
+    margin: 110px;
+    margin-top: 7px;
+    font-size: 20px;
+}
+.container nav99 form fieldset img{
+  float: left;
+  width: 25px;
+  margin-top: -132px;
+}
+.container nav1  h1 img{
+    float: left;
+    margin-left: -3px;
+}
+.container nav1  h2 img{
+    float: left;
+    margin-left: -375px;
+    width: 27px;
+    margin-top: -118px;
+}
+.container nav1  h3 img{
+    float: left;
+    margin-top: -71px;
+    width: 27px;
+    margin-left: 15px;
+    width: 24px;
+}
+.container nav1  h4{
+    float: left;
+    margin-top: -81px;
+    margin-left: 50px;
+}
+.container nav1  h5{
+    float: left;
+    margin-top: -81px;
+   font-size: 16px;
+    margin-left: 110px;
+    font-weight: lighter;
+}
+.container nav1  h6{
+    float: left;
+    margin-top: -55px;
+   font-size: 16px;
+    margin-left: 50px;
+    font-weight: lighter;
+}
+.container nav2 fieldset {
+    float: left;
+    width: 381px;
+    margin-left: -2px;
+    border-radius: 20px;
+    height: 500px;
+    margin-top: -40px;
+}
+.container nav2 fieldset h1 img {
+    float: left;
+    margin-left: 92px;
+}
+.container nav2 fieldset h2 {
+    font-size: 17px;
+    font-weight: lighter;
+    float: left;
+    margin-top: -110px;
+    margin-left: 125px;
+}
+.container nav2 fieldset h3 img {
+    margin-top: -80px;
+    float: left;
+    margin-left: 160px;
+}
+.container nav2 fieldset h5 {
+    margin-top: -10px;
+    margin-left: 8px;
+    float: left;
+   font-weight: lighter;
+   font-size: 15px;
+}
+.container nav2 fieldset h6{
+    margin-top: -20px;
+    margin-left: -15px;
+    float: left;
+    width: 440px;
+}
+.container nav2 fieldset h7{
+    float: left;
+   font-weight: bold;
+   font-size: 20px;
+   margin-left: 8px;
+   margin-top: 10px;
+}
+.container nav3 fieldset{
+    float: left;
+    width: 330px;
+    height: 24px;
+    margin-left: 22px;
+    border-radius: 10px;
+    margin-top: -285px;
+}
+.container nav3 fieldset h1{
+    float: left;
+    font-weight: lighter;
+    margin-top: -0.3px;
+    margin-left: -4px;
+}
+.container nav4 {
+    float: left;
+   font-weight: bold;
+   font-size: 20px;
+   margin-left: 24px;
+   margin-top: -220px; 
+}
+.container nav5 fieldset{
+    float: left;
+    width: 330px;
+    height: 24px;
+    margin-left: 22px;
+    border-radius: 10px;
+    margin-top: -190px;
+}
+.container nav5 fieldset h1{
+    float: left;
+    width: 300px;
+    height: 24px;
+    margin-left: 12px;
+    font-size: 14px;
+    margin-top: -2px;
+    font-weight: lighter;
+
+}
+.container nav6 {
+    float: left;
+    font-size: 16px;
+    width: 370px;
+    margin-left: 17px;
+    margin-top: -110px;
+}
+.container nav7 hr{
+    float: left;
+    width: 420px;
+    margin-top: -330px;
+}
+.container nav8 {
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.container nav9 {
+    float: left;
+    font-size: 20px;
+margin-left: 5px;
+    margin-top: 9px;
+}
+.container nav10 {
+    float: left;
+    font-size: 20px;
+margin-left: -370px;
+    margin-top: 37px;
+    font-weight: 900;
+    color: red;
+    font-style: italic;
+}
+.container nav11 {
+    float: left;
+    font-size: 20px;
+margin-left: -340px;
+    margin-top: 37px;
+    font-weight: 900;
+    color: rgb(0, 17, 255);
+    font-style: italic;
+}
+.container nav12 {
+    float: left;
+    font-size: 20px;
+margin-left: -375px;
+    margin-top: 80px;
+}
+.container nav13 {
+    float: left;
+    font-size: 20px;
+    color: #000;
+margin-top: 49px;
+margin-left: 32px;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.container nav14 {
+    float: left;
+    font-size: 20px;
+margin-left: 5px;
+    margin-top:50px;
+}
+.container nav15 {
+    float: left;
+    font-size: 20px;
+margin-left: 8px; 
+}
+.container nav16 fieldset {
+    float: left;
+    margin-top: 70px;
+    width: 130px;
+    height: 25px;
+    border-radius: 15px;
+    background: #01A730;
+    margin-left: -1px;
+}
+.container nav16 fieldset h1 {
+    color: #ffffff;
+    float: left;
+    margin-left: 25px;
+}
+.container nav17 img{
+    float: left;
+    margin-top: 60px;
+    margin-left: 138px;
+}
+
+
+
+
+
+
+

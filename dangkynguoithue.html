@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/all.min.css"/>
+    <link rel="stylesheet" href="/style.css"/>
+    
+    <script src="./js/jquery-3.7.1.min.js"></script>
+    <script src="./js/all.min.js"></script>
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    
+    <link rel="stylesheet" href="./css/dangkynguoithue.css"/>
+    <script scr="js/myjs.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="phone">
+            <div class="content">
+                <div class="StatusBar">
+                    <h5>9:41</h5>
+                    <img class="k900" src="./media/battery.png">
+                    <img class="l900" src="./media/Wifi.png">
+                    <img class="p900" src="./media/signal.png">
+                </div>
+                <hr>
+                <div class="back">
+                     <a href="./dangnhap.html"><img class="c800" src="./media/previous.png" style="width:40px; height:40px; margin-top:8px; margin-left:10px;"></a>
+                    <span>Đăng Ký</span>
+                </div>
+                <div class="h300" style="display:flex; justify-content:center;margin-top:-15px;">
+                <img src="./media/1.png" alt="1" style="width:236px;height:246px; margin-left:330px;"/>
+            </div>
+            <h1>Loại Tài Khoản</h1>
+            <div style="display:flex; justify-content:center">
+                <a href="./dangkychutro.html"> <button>Chủ Trọ</button></a>
+        </div>
+        <br>
+        <div style="display:flex; justify-content:center">
+             <button style="background-color:#00661D">Người Thuê</button>
+            </div>
+            <h2>Đăng Ký</h2>
+            <div style="display:flex;">
+                <label>Số điện thoại</label>
+               </div>
+               <div style="display:flex; justify-content:center">
+                <input type="text" placeholder="SDT" id="username">
+               </div>
+               <div style="display:flex; ">
+                <label>E-Mail</label>
+               </div>
+               <div style="display:flex; justify-content:center">
+                <input type="text" placeholder="Mail" id="email">
+               </div>
+               <div style="display:flex;">
+                <label>Mật Khẩu</label>
+               </div>
+               <div style="display:flex; justify-content:center">
+                <input type="password" placeholder="Password" id="password">
+               </div>
+               <div style="display:flex;">
+                <label>Nhập Lại Mật Khẩu</label>
+               </div>
+               <div style="display:flex; justify-content:center">
+                <input type="password" placeholder="Nhập lại mật khẩu">
+               </div>
+               
+               <div style="display:flex; justify-content:center;">
+                <a href="./dangky2.html"><input id="h300" type="button" value="Đăng Ký" onclick="registerUser(event)"></a>
+               </div>
+                <form>
+                    <fieldset>
+                        <legend>Hoặc</legend>
+                    </fieldset>
+                </form>
+                <img class="n400" src="./media/facebook.png">
+                <img class="n400" src="./media/gg.png">
+                <img class="n400" src="./media/x.png">
+                <h6>Bằng việc đăng ký, bạn đã đồng ý với FAFS về <br>
+                    <a class="k600" href="#">điều khoản dịch vụ &#38; Chính sách bảo mật</a>
+                </h6>
+                <p>Bạn đã có tài khoản? </p>
+                <a class="j300" href="./dangnhap.html">Đăng nhập</a>  
+                <div class="footer"></div>
+            </div>
+        </div>
+    </div>
+    <script>
+        // Mảng chứa thông tin tài khoản
+        let accounts = [ { username: "0765160540", password: "63133268" },
+        { username: "0329838041", password: "63131209" },
+        { username: "0836476173", password: "63132836" },
+        { username: "0347778783", password: "63130410" },
+        ];
+        
+        function registerUser(event) {
+          event.preventDefault(); 
+          
+          const username = document.getElementById("username").value;
+          const password = document.getElementById("password").value;
+          
+          
+          const existingUser = accounts.find(account => account.username === username);
+          if (existingUser) {
+            alert("Đã có tài khoản!");
+          } else {
+            // Thêm tài khoản mới vào mảng
+            accounts.push({ username, password });
+            alert("Nhập mã xác minh!");
+            window.location.href = "../Giaodien-nguoithue/dangky2.html";
+          }
+        }
+      </script>
+</body>
+</html>

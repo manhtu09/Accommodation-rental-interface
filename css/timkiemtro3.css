@@ -1,0 +1,636 @@
+body{
+    padding:0;
+    margin:0;
+    background-color:#ffffff;
+}
+.container{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    background-color: #000000;
+    border-radius: 40px;
+    width: 430px;
+    height:1240px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 30px 50px 100px #85888C;
+}
+.content{
+    border: 1px solid #ffffff   ;
+    border-radius: 20px;
+    width: 94%;
+    height: 97%;
+    background-color:#FFFFFF;
+    overflow:hidden;
+    
+}
+.StatusBar{
+    width: 430px;
+    height: 49px;
+}
+.k900{
+    float:right;
+    margin-top:-75px;
+    margin-right: 40px;
+}
+.l900{
+    float:right;
+    margin-top:-75px;
+    margin-right: 70px;
+}
+.p900{
+    float:right;
+    margin-top:-75px;
+    margin-right: 90px;
+}
+
+.StatusBar h5{
+    width: 40px;
+    height: 49px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+  
+}
+.banner{
+    width:403px;
+    height:65px;
+    background-color:#BAD7BB;
+    border:1px solid black;
+    border-radius: 0px 0px 30px 30px;
+    box-shadow:0px 0px 15px 2px  #85888C;
+}
+.b1{
+    float:left;
+    margin-top: -10px;
+    margin-left: 20px;
+}
+.b2{
+    float:left;
+    margin-left: 110px;
+    margin-top: -10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.b3{
+    float:left;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.b4{
+    float:left;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.b5{
+    float:left;
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 10px;
+    margin-top: -12px;
+}
+.l-t-d{
+    width:400px;
+    height:460px;
+    background-color: #EEDEDE;
+    margin: 10vh auto;
+    border-radius: 8px;
+}
+.b6{
+    float:left;
+    margin-left: -280px;
+    margin-top: 10px;
+}
+.b7{
+    float:left;
+    margin-left: -250px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.l-t-d-0{
+    width:390px;
+    height: 400px;
+    border-radius: 8px;
+    border: 1px solid #AAAAAA;
+    margin: -65vh auto;
+    background-color: #FFFFFF;
+
+}
+.b8{
+    float:left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.b9{
+    float:left;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 5px
+}
+.b10{
+    float:left;
+    font-size: 14px;
+    font-weight: 200;
+    color:#00000083;
+    margin-top: 25px;
+    margin-left: -59px;
+}
+.b11{
+    float:right;
+    margin-right: 10px;
+    margin-top: 15px;
+    width:15px;
+    height:15px;
+}
+.b12{
+    float:left;
+    margin-left: 13px;
+    margin-top: 20px;
+}
+.b13{
+    float:left;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 13px;
+    margin-top: 5px
+}
+.b14{
+    float:left;
+    font-size: 14px;
+    font-weight: 200;
+    color:#00000083;
+    margin-top: 25px;
+    margin-left: -78px;
+}
+.b15{
+    float:left;
+    margin-left: 13px;
+    margin-top: 20px;
+}
+.b16{
+    float:left;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 14px;
+    margin-top: 5px
+}
+.b17{
+    float:left;
+    font-size: 14px;
+    font-weight: 200;
+    color:#00000083;
+    margin-top: 25px;
+    margin-left: -96px;
+}
+.b18{
+    float:left;
+    margin-left: 14px;
+    margin-top: 20px;
+}
+.b19{
+    float:left;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-top: 5px
+}
+.b20{
+    float:left;
+    font-size: 14px;
+    font-weight: 200;
+    color:#00000083;
+    margin-top: 25px;
+    margin-left: -100px;
+}
+.b21{
+    float:left;
+    margin-left: 14px;
+    margin-top: 20px;
+}
+.b22{
+    float:left;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 16px;
+    margin-top: 5px
+}
+.b23{
+    float:left;
+    font-size: 14px;
+    font-weight: 200;
+    color:#00000083;
+    margin-top: 25px;
+    margin-left: -122px;
+}
+.b24{
+    float:left;
+    margin-left: 14px;
+    margin-top: 20px;
+}
+.b25{
+    float:left;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 16px;
+    margin-top: 5px
+}
+.b26{
+    float:left;
+    font-size: 14px;
+    font-weight: 200;
+    color:#00000083;
+    margin-top: 25px;
+    margin-left: -42px;
+}
+.g-t{
+    width: 400px;
+    height:110px;
+    background-color: #EEDEDE;
+    margin: 70vh auto;
+    border-radius: 8px;
+}
+.b27{
+    float:left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.b28{
+    float:left;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.myButton {
+    background-color:#7BF09C;
+    float:left;
+    width:100px;
+    height:28px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top:38px;
+    margin-left: -60px;
+   
+  }
+  .myButton:active,
+  .myButton:focus {
+    background-color:#01A730;
+    color:#FFFFFF;
+  }
+  .myButton:active .buttonText,
+  .myButton:focus .buttonText {
+    display: none;
+  }
+  .myButton:active::after,
+  .myButton:focus::after {
+    content: "Dưới 1 triệu ";
+  }
+  .myButton-1{
+    background-color:#7BF09C;
+    float:left;
+    width:100px;
+    height:28px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top:38px;
+    margin-left: 10px;
+   
+  }
+  .myButton-1:active,
+  .myButton-1:focus {
+    background-color:#01A730;
+    color:#FFFFFF;
+  }
+  .myButton-1:active .buttonText-1,
+  .myButton-1:focus .buttonText-1 {
+    display: none;
+  }
+  .myButton-1:active::after,
+  .myButton-1:focus::after {
+    content: "1-2 triệu";
+  }
+
+  .myButton-2{
+    background-color:#7BF09C;
+    float:left;
+    width:100px;
+    height:28px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top:38px;
+    margin-left: 10px;
+   
+  }
+  .myButton-2:active,
+  .myButton-2:focus {
+    background-color:#01A730;
+    color:#FFFFFF;
+  }
+  .myButton-2:active .buttonText-2,
+  .myButton-2:focus .buttonText-2 {
+    display: none;
+  }
+  .myButton-2:active::after,
+  .myButton-2:focus::after {
+    content: "2-3 triệu";
+  }
+  .myButton-3{
+    background-color:#7BF09C;
+    float:left;
+    width:100px;
+    height:28px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top:8px;
+    margin-left: 39px;
+   
+  }
+  .myButton-3:active,
+  .myButton-3:focus {
+    background-color:#01A730;
+    color:#FFFFFF;
+  }
+  .myButton-3:active .buttonText-3,
+  .myButton-3:focus .buttonText-3 {
+    display: none;
+  }
+  .myButton-3:active::after,
+  .myButton-3:focus::after {
+    content: "3-4 triệu";
+  }
+  .myButton-4{
+    background-color:#7BF09C;
+    float:left;
+    width:100px;
+    height:28px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top:8px;
+    margin-left: 10px;
+   
+  }
+  .myButton-4:active,
+  .myButton-4:focus {
+    background-color:#01A730;
+    color:#FFFFFF;
+  }
+  .myButton-4:active .buttonText-4,
+  .myButton-4:focus .buttonText-4 {
+    display: none;
+  }
+  .myButton-4:active::after,
+  .myButton-4:focus::after {
+    content: "4-5 triệu";
+  }
+
+
+
+  .myButton-5{
+    background-color:#7BF09C;
+    float:left;
+    width:100px;
+    height:28px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top:8px;
+    margin-left: 10px;
+   
+  }
+  .myButton-5:active,
+  .myButton-5:focus {
+    background-color:#01A730;
+    color:#FFFFFF;
+  }
+  .myButton-5:active .buttonText-5,
+  .myButton-5:focus .buttonText-5 {
+    display: none;
+  }
+  .myButton-5:active::after,
+  .myButton-5:focus::after {
+    content: "Trên 5 triệu";
+  }
+.d-t{
+    width:400px;
+    height:151px;
+    background-color: #EEDEDE;
+    margin: -66vh auto;
+    border-radius: 8px;
+}
+.b29{
+    float:left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.b30{
+    float:left;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.myButton-6{
+    background-color:#7BF09C;
+    float:left;
+    width:100px;
+    height:28px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top:35px;
+    margin-left: -65px;
+   
+  }
+  .myButton-6:active,
+  .myButton-6:focus {
+    background-color:#01A730;
+    color:#FFFFFF;
+  }
+  .myButton-6:active .buttonText-6,
+  .myButton-6:focus .buttonText-6 {
+    display: none;
+  }
+  .myButton-6:active::after,
+  .myButton-6:focus::after {
+    content: "Dưới 10m2 ";
+  }
+  .myButton-7{
+    background-color:#7BF09C;
+    float:left;
+    width:100px;
+    height:28px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top:35px;
+    margin-left: 15px;
+   
+  }
+  .myButton-7:active,
+  .myButton-7:focus {
+    background-color:#01A730;
+    color:#FFFFFF;
+  }
+  .myButton-7:active .buttonText-7,
+  .myButton-7:focus .buttonText-7 {
+    display: none;
+  }
+  .myButton-7:active::after,
+  .myButton-7:focus::after {
+    content: "10-15m2  ";
+  }
+  .myButton-8{
+    background-color:#7BF09C;
+    float:left;
+    width:100px;
+    height:28px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top:35px;
+    margin-left: 15px;
+   
+  }
+  .myButton-8:active,
+  .myButton-8:focus {
+    background-color:#01A730;
+    color:#FFFFFF;
+  }
+  .myButton-8:active .buttonText-8,
+  .myButton-8:focus .buttonText-8 {
+    display: none;
+  }
+  .myButton-8:active::after,
+  .myButton-8:focus::after {
+    content: "15-20m2  ";
+  }
+  .myButton-9{
+    background-color:#7BF09C;
+    float:left;
+    width:100px;
+    height:28px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top:10px;
+    margin-left: 40px;
+   
+  }
+  .myButton-9:active,
+  .myButton-9:focus {
+    background-color:#01A730;
+    color:#FFFFFF;
+  }
+  .myButton-9:active .buttonText-9,
+  .myButton-9:focus .buttonText-9 {
+    display: none;
+  }
+  .myButton-9:active::after,
+  .myButton-9:focus::after {
+    content: "20-30m2  ";
+  }
+  .myButton-10{
+    background-color:#7BF09C;
+    float:left;
+    width:100px;
+    height:28px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top:10px;
+    margin-left: 16px;
+   
+  }
+  .myButton-10:active,
+  .myButton-10:focus {
+    background-color:#01A730;
+    color:#FFFFFF;
+  }
+  .myButton-10:active .buttonText-10,
+  .myButton-10:focus .buttonText-10 {
+    display: none;
+  }
+  .myButton-10:active::after,
+  .myButton-10:focus::after {
+    content: "30-40m2  ";
+  }
+  .myButton-11{
+    background-color:#7BF09C;
+    float:left;
+    width:100px;
+    height:28px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top:10px;
+    margin-left: 16px;
+   
+  }
+  .myButton-11:active,
+  .myButton-11:focus {
+    background-color:#01A730;
+    color:#FFFFFF;
+  }
+  .myButton-11:active .buttonText-11,
+  .myButton-11:focus .buttonText-11 {
+    display: none;
+  }
+  .myButton-11:active::after,
+  .myButton-11:focus::after {
+    content: "40-50m2  ";
+  }
+
+  .myButton-12{
+    background-color:#7BF09C;
+    float:left;
+    width:100px;
+    height:28px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top:10px;
+    margin-left: 40px;
+   
+  }
+  .myButton-12:active,
+  .myButton-12:focus {
+    background-color:#01A730;
+    color:#FFFFFF;
+  }
+  .myButton-12:active .buttonText-12,
+  .myButton-12:focus .buttonText-12 {
+    display: none;
+  }
+  .myButton-12:active::after,
+  .myButton-12:focus::after {
+    content: "40-50m2  ";
+  }
+.b40{
+    width:164px;
+    height:69px;
+    background-color: #C34A06;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    color:#FFFFFF;
+    float:left;
+    margin-top: 80px;
+    margin-left: -120px;
+}
+.b41{
+    width:164px;
+    height:69px;
+    background-color: #01A730;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    color:#FFFFFF;
+    float:right;
+    margin-top: 80px;
+   margin-right: 20px;
+}
+.line-footer{
+    width:134px;
+    height:8px;
+    background-color: #000000;
+    border-radius: 100px;
+    margin:90vh auto;
+  }

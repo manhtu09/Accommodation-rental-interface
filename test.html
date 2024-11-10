@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Đăng ký</title>
+</head>
+<body>
+  <h2>Đăng ký</h2>
+  <form>
+    
+    <input type="tel" id="username" name="username"><br><br>
+    <input type="email" id="email" name="email">
+    <input type="password" id="password" name="password"><br><br>
+    <input type="password-1" id="password-1" name="password-1"><br><br>
+    <input type="submit" value="Đăng ký" onclick="registerUser(event)">
+  </form>
+  
+  <script>
+    // Mảng chứa thông tin tài khoản
+    let accounts = [ { username: "tú", password: "63133268" },
+    { username: "sơn", password: "63131209" },
+    { username: "vinh", password: "63132836" },
+    { username: "hậu", password: "63130410" },
+    ];
+    
+    function registerUser(event) {
+      event.preventDefault(); // Ngăn chặn hành vi mặc định khi nhấp vào nút Submit
+      
+      const username = document.getElementById("username").value;
+      const password = document.getElementById("password").value;
+      
+      // Kiểm tra xem tên người dùng đã tồn tại chưa
+      const existingUser = accounts.find(account => account.username === username);
+      if (existingUser) {
+        alert("Tài khoản đã tồn tại!");
+      } else {
+        // Thêm tài khoản mới vào mảng
+        accounts.push({ username, password });
+        alert("Đăng ký thành công!");
+        // Chuyển hướng đến trang đăng nhập hoặc trang khác tùy ý
+        window.location.href = "login.html";
+      }
+    }
+  </script>
+</body>
+</html>

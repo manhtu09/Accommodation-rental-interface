@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/all.min.css"/>
+    <link rel="stylesheet" href="/style.css"/>
+    
+    <script src="./js/jquery-3.7.1.min.js"></script>
+    <script src="./js/all.min.js"></script>
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    
+    <link rel="stylesheet" href="./css/dangnhapnguoithue.css"/>
+    <script scr="./js/myjs.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="phone">
+            <div class="content">
+                <div class="StatusBar">
+                    <h5>9:41</h5>
+                    <img class="k900" src="./media/battery.png">
+                    <img class="l900" src="./media/Wifi.png">
+                    <img class="p900" src="./media/signal.png">
+                </div>
+                <hr>
+                <div class="back">
+                    
+                    <a href="./openapp.html"><img class="c800" src="./media/previous.png" style="width:40px;height:40px;float:right; margin-top:-45px; margin-left:-370px;"></a>
+                
+                    <span>Đăng Nhập</span>
+                </div>
+                <div class="h300" style="display:flex; justify-content:center;margin-top:-15px;">
+                <img src="./media/1.png" alt="1" style="width:236px;height:246px; margin-left:300px"/>
+            </div>
+            <h1>Loại Tài Khoản</h1>
+            <div style="display:flex; justify-content:center"> 
+                 <a href="./dangnhapchutro.html"><button style="background-color:#01A730; margin-left:24px;">Chủ Trọ</button></a>
+        </div>
+        <br>
+        <div style="display:flex; justify-content:center">
+             <button style="background-color:#00661D">Người Thuê</button>
+            </div>
+            <h2>Đăng Nhập</h2>
+            <div style="display:flex;">
+                <label>Tài Khoản</label>
+               </div>
+               <div style="display:flex; justify-content:center">
+                <input type="text" placeholder="SDT hoặc Mail" id="username" name="username">
+               </div>
+               <div style="display:flex; ">
+                <label>Mật Khẩu</label>
+               </div>
+               <div style="display:flex; justify-content:center">
+                <input type="password" placeholder="Mật Khẩu" id="password" name="password">
+               </div>
+               <a href="./quenmatkhau.html">Quên mật khẩu?</a>
+               <div style="display:flex; justify-content:center;">
+                 <a href="#"><input id="h300" type="button" value="Đăng Nhập" onclick="validateLogin(event)"></a>
+               </div>
+                <form>
+                    <fieldset>
+                        <legend>Hoặc</legend>
+                    </fieldset>
+                </form>
+                <img class="n400" src="./media/facebook.png">
+                <img class="n400" src="./media/gg.png">
+                <img class="n400" src="./media/x.png">
+                <p>Bạn chưa có tài khoản? </p>
+                <a class="j300" href="./dangky.html" >Đăng ký</a>
+            </div>  
+        </div>
+    </div>
+    <script>
+        // Đối tượng chứa thông tin tài khoản
+        const accounts = [
+        { username: "0765160540", password: "63133268" },
+        { username: "0329838041", password: "63131209" },
+        { username: "0836476173", password: "63132836" },
+        { username: "0347778783", password: "63130410" },
+        ];
+        
+        function validateLogin(event) {
+          event.preventDefault();
+          
+          const username = document.getElementById("username").value;
+          const password = document.getElementById("password").value;
+          
+          // Kiểm tra thông tin tài khoản và mật khẩu
+          const matchedAccount = accounts.find(account => account.username === username && account.password === password);
+          if (matchedAccount) {
+            alert("Đăng nhập thành công!");
+            window.location.href = "../Giaodien-nguoithue/trangchunguoithue.html"; 
+          } else {
+            alert("Tài khoản hoặc mật khẩu không đúng!");
+           
+          }
+        }
+      </script>
+</body>
+</html>

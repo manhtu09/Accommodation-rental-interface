@@ -1,0 +1,57 @@
+.container{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    background-color: black;
+    border-radius: 40px;
+    width: 430px;
+    height:920px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 30px 50px 100px #ffffff;
+}
+.content{
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    width: 94%;
+    height: 97%;
+    background-color:#ffffff;
+    overflow:hidden;
+    
+}
+.container h1 {
+    margin: 5%;
+    float: left;
+    font-size:20px;
+    
+}
+.container h2{
+    float: right;
+   margin-right: 15px;
+    
+}
+.container nav99 form fieldset{
+    height: 40px;
+    margin-top: 1px;
+    width: 382px;
+    margin-left: -4px;
+    float: left;
+    background-color: #BAD7BB;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.container nav99 form fieldset h3{
+    margin: 110px;
+    margin-top: 7px;
+    font-size: 20px;
+    float: left;
+}
+.container nav99 form fieldset img{
+  float: left;
+  width: 25px;
+  margin-top: -132px;
+}

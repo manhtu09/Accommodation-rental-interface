@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+    text-align: justify;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+.fa-hotel{
+    color:aqua;
+    
+}

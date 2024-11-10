@@ -1,0 +1,182 @@
+.container{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    background-color: black;
+    border-radius: 40px;
+    width: 430px;
+    height:910px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 30px 50px 100px #ffffff;
+}
+.content{
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    width: 94%;
+    height: 97%;
+    background-color:#ffffff;
+    overflow:hidden;
+    
+}
+.container h1 {
+    margin: 5%;
+    float: left;
+    font-size:20px;
+    
+}
+.container h2{
+    float: right;
+   margin-right: 15px;
+    
+}
+.container nav99 form fieldset{
+    height: 40px;
+    margin-top: 1px;
+    width: 382px;
+    margin-left: -3px;
+    float: left;
+    background-color: #BAD7BB;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.container nav99 form fieldset h3{
+    margin: 110px;
+    margin-top: 7px;
+    font-size: 20px;
+    float: left;
+}
+.container nav99 form fieldset img{
+  float: left;
+  width: 25px;
+  margin-top: -132px;
+}
+.container nav1 img {
+    float: left;
+    margin-top: 20px;
+}
+.container nav2 {
+    float: left;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 37px;
+    margin-left: -40px;
+    
+}
+.container nav3 {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 5px;
+    
+}
+.container nav4 {
+    float: left;
+    font-size: 15px;
+    font-style: italic;
+    margin-top: 15px;
+    margin-left: 5px;
+    
+}
+.container nav5 {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: -310px;
+}
+.container nav6 {
+    float: left;
+    font-size: 20px;
+    color: red;
+    margin-left: -223px;
+    margin-top: 43px;
+}
+.container nav7 fieldset {
+    float: left;
+    margin-top: 78px;
+    margin-left: -311px;
+    width: 343px;
+    height: 20px;
+    border-radius: 10px;
+}
+.container nav7 fieldset h1 {
+    float: left;
+    margin-top: -1px;
+    margin-left: -6px;
+    font-weight: lighter;
+}
+.container nav8 {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left:  15px;
+}
+.container nav9 {
+    float: left;
+    font-size: 20px;
+    color: red;
+    margin-left: 3px;
+    margin-top: 3px;
+}
+.container nav10 fieldset {
+    float: left;
+    margin-top: 7px;
+    margin-left: 15px;
+    width: 343px;
+    height: 20px;
+    border-radius: 10px;
+}
+.container nav10 fieldset h1 {
+    float: left;
+    margin-top: -1px;
+    margin-left: -6px;
+    font-weight: lighter;
+}
+.container nav11 {
+    float: left;
+    margin-left: 350px;
+    margin-top: -110px;
+}
+.container nav12 {
+    float: left;
+    margin-left: 350px;
+    margin-top: -30px;
+}
+.container nav13 fieldset {
+    float: right;
+    height: 20px;
+    width: 70px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: rgb(0, 255, 21);
+    margin-right: 15px;
+    margin-top: -39px;
+}
+.container nav14 fieldset {
+    float: right;
+    height: 30px;
+ background-color: rgb(0, 211, 28);
+    width: 130px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-right: 120px;
+}
+.container nav15 img {
+    float: left;
+    margin-left: 135px;
+    margin-top: 37px;
+
+}
+.container nav14 fieldset h1 {
+    float: left;
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 45px;
+}

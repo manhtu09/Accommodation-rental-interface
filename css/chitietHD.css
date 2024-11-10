@@ -1,0 +1,438 @@
+.container{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    background-color: black;
+    border-radius: 40px;
+    width: 430px;
+    height:2170px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 30px 50px 100px #ffffff;
+}
+.content{
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    width: 94%;
+    height: 97%;
+    background-color:#ffffff;
+    overflow:hidden;
+    
+}
+.container h1 {
+    margin: 5%;
+    float: left;
+    font-size:20px;
+    
+}
+.container h2{
+    float: right;
+   margin-right: 15px;
+    
+}
+.container nav99 fieldset {
+    float: left;
+    height: 40px;
+    margin-left: -2px;
+    width: 375px;
+    background-color: rgb(213, 252, 218);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.container nav99 fieldset h1 {
+    float: left;
+    margin-left: 80px;
+    margin-top: 9px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container nav99 form fieldset h2 a img{
+  float: left;
+  width: 25px;
+  margin-top: -10px;
+  margin-left: -360px;
+}
+.container nav1 {
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-weight: 800;
+    color: red;
+    font-style: italic;
+    font-size: 20px;
+}
+.container nav2 {
+    float: left;
+    margin-top: 35px;
+    margin-left: -110px;
+    font-weight: 800;
+    font-size: 21px;
+}
+.container nav3 {
+    float: left;
+    margin-top: 35px;
+    margin-left: 5px;
+    font-weight: 800;
+    font-size: 21px;
+    color: rgb(13, 0, 255);
+}
+.container nav4 {
+    float: left;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.container nav5 {
+    font-size: 20px;
+    color: red;
+    float: left;
+    margin-left: 2px;
+}
+.container nav6 fieldset {
+    float: left;
+    margin-top: 40px;
+    width: 348px;
+    margin-left: -218px;
+    height: 20px;
+    border-radius: 10px;
+}
+.container nav6 fieldset h1 {
+    float: left;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-top: -1px;
+    margin-left: -5px;
+}
+.container nav7 {
+    float: left;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.container nav8 {
+    font-size: 20px;
+    color: red;
+    float: left;
+    margin-left: 2px;
+}
+.container nav9 fieldset {
+    float: left;
+    margin-top: 10px;
+    width: 348px;
+    margin-left: 13px;
+    height: 20px;
+    border-radius: 10px;
+}
+.container nav9 fieldset h1 {
+    float: left;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-top: -1px;
+    margin-left: -5px;
+}
+.container nav10 {
+    float: left;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.container nav8 {
+    font-size: 20px;
+    color: red;
+    float: left;
+    margin-left: 2px;
+}
+.container nav11 fieldset {
+    float: left;
+    margin-top: 10px;
+    width: 348px;
+    margin-left: 13px;
+    height: 20px;
+    border-radius: 10px;
+}
+.container nav11 fieldset h1 {
+    float: left;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-top: -1px;
+    margin-left: -5px;
+    font-weight: lighter;
+}
+
+.container nav14 img {
+    float: left;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.container nav15 img {
+    float: right;
+    margin-top: -143px;
+    margin-right: -5px;
+}
+.container nav16 {
+    float: left;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.container nav9 h2 img {
+    float: right;
+    margin-top: -18px;
+    margin-right: -10px;
+}
+.container nav17 fieldset {
+    float: left;
+    margin-top: 10px;
+    width: 348px;
+    margin-left: 13px;
+    height: 40px;
+    border-radius: 10px;
+}
+.container nav17 fieldset h1 {
+    float: left;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-top: -1px;
+    margin-left: -5px;
+}
+.vung1 h1{
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 13px;
+    margin-top: 20px;
+}
+.vung1 h2{
+    float: left;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-left: -222px;
+}
+.vung1 h3 {
+    float: right;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-right: 13px;
+}
+.vung1 h4 hr {
+    float: left;
+    width: 370px;
+    margin-left: 13px;
+    margin-top: -10px;
+}
+.vung1 h5{
+    float: left;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-left: 13px;
+}
+.vung1 h6 {
+    float: right;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-right: 13px;
+}
+.vung1 h7 hr {
+    float: left;
+    width: 370px;
+    margin-left: 13px;
+    margin-top: -40px;
+}
+.vung1 h8{
+    float: left;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: -10px;
+    margin-left: 13px;
+}
+.vung1 h9 {
+    float: right;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: -10px;
+    margin-right: 13px;
+}
+.vung1 h10 hr {
+    float: left;
+    width: 370px;
+    margin-left: 13px;
+    margin-top: 7px;
+}
+.vung1 h11{
+    float: left;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-left: 13px;
+}
+.vung1 h12 {
+    float: right;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-right: 13px;
+}
+.vung1 h13 hr {
+    float: left;
+    width: 370px;
+    margin-left: 13px;
+    margin-top: 5px;
+}
+.vung2 h1 {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left: 13px;
+}
+.vung2 h2 img {
+    float: left;
+    width: 55px;
+    margin-top: 30px;
+    margin-left: -374px;
+}
+.vung2 h3 {
+    float: left;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-left: -140px;
+}
+.vung2 h4 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 80px;
+    margin-left: -140px;
+}
+.vung2 h5 img {
+    float: left;
+    width: 55px;
+    margin-top: 130px;
+    margin-left: -203px;
+}
+.vung2 h6 {
+    float: left;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 130px;
+    margin-left: -140px;
+}
+.vung2 h7 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 160px;
+    margin-left: -140px;
+}
+.vung2 h8 img {
+    float: left;
+    width: 55px;
+    margin-top: 210px;
+    margin-left: -203px;
+}
+.vung2 h9 {
+    float: left;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 210px;
+    margin-left: -140px;
+}
+.vung2 h10 {
+    float: left;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 240px;
+    margin-left: -140px;
+}
+.vung3 {
+    float: left;
+    background-color: blue;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    margin-top: 290px;
+    margin-left: -202px;
+}
+.vung3 h1 {
+    float: left;
+    margin-top: -5px;
+    margin-left: 15px;
+}
+.vung3 h2 {
+    float: left;
+    margin-top: -20px;
+    margin-left: 70px;
+    font-size: 15px;
+    font-weight: 100;
+    width: 100px;
+}
+.vung4 h1 {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 330px;
+    margin-left: -203px;
+}
+.vung4 h2 {
+    float: left;
+    font-size: 19px;
+    font-weight: 600;
+    margin-top: 310px;
+    margin-left: 13px;
+}
+.vung4 h3 {
+    float: right;
+    margin-top: 310px;
+    margin-right: -3px;
+}
+.vung4 h4 hr {
+    float: left;
+    width: 370px;
+    margin-left: 13px;
+margin-top: -15px;
+}
+.vung4 h5 {
+    float: left;
+    font-size: 19px;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-left: 13px;
+}
+.vung4 h6 {
+    float: right;
+    margin-top: 10px;
+    margin-right: 13px;
+}
+.vung4 h7 hr {
+    float: left;
+    width: 370px;
+    margin-left: 13px;
+margin-top: -20px;
+}
+.vung4 h8 {
+    float: left;
+    font-size: 19px;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-left: 13px;
+    color: red;
+}
+.cuoi img {
+    float: left;
+    margin-left: 135px;
+    margin-top: 1px;
+}

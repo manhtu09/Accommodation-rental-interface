@@ -1,0 +1,83 @@
+.container{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    background-color: #36383F;
+    border-radius: 40px;
+    width: 430px;
+    height:1090px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 30px 50px 100px #ffffff;
+}
+.content{
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    width: 94%;
+    height: 97%;
+    background-color:#ffffff;
+    overflow:hidden;
+    
+}
+.container h1 {
+    margin: 5%;
+    float: left;
+    font-size:20px;
+    
+}
+.container h2{
+    float: right;
+   margin-right: 15px;
+}
+.container nav1 fieldset{
+    width: 381px;
+    height:  98px;
+    margin-left: -2px;
+    float: left;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    background-color: rgb(213, 252, 218);
+}
+.container nav1 fieldset h1 a img {
+    float: left;
+    margin-left: -20px;
+    margin-top: -15px;
+}
+.container nav1 fieldset h2 {
+    float: left;
+    margin-left: 70px;
+    margin-top: -1px;
+    font-size: 22px;
+}
+.container nav1 fieldset h3 {
+    float: left;
+    font-size: 25px;
+    margin-left: -250px;
+    font-weight: 300;
+    margin-top: 70px;
+}
+.container nav1 h4 {
+    float: right;
+    margin-top: 60px;
+}
+.container nav2 img {
+float: left;
+margin-top: 350px;
+margin-left: 120px;
+}
+.container nav3 {
+    float: left;
+    margin-left: 130px;
+    font-size: 15px;
+}
+.container nav4 img {
+    float: left;
+    margin-top: 367px;
+    margin-left: -130px;
+}
+
+

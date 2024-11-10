@@ -1,0 +1,105 @@
+body{
+    padding:0;
+    margin:0;
+    background-color:#ffffff;
+}
+.container{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    background-color: #000000;
+    border-radius: 40px;
+    width: 430px;
+    height:1041px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 30px 50px 100px #85888C;
+}
+.content{
+    border: 1px solid #ffffff   ;
+    border-radius: 20px;
+    width: 94%;
+    height: 97%;
+    background-color:#FFFFFF;
+    overflow:hidden;
+}
+
+.h300{
+    width:28px;
+    padding:1%;
+}
+.n400{
+    width:28px;
+    float:right;
+    margin-right: 5px;
+    margin-top: -40px;
+}
+.header h1{
+    width:109px;
+    height:24px;
+    font-size: 20px;
+    margin-top: -30px;
+    margin-left:140px;
+}
+.header fieldset{
+    width:385px;
+    height:133px;
+    margin-left: -4px;
+    background-color: #EBF6EC;
+    border-radius: 0px 0px 30px 30px;
+}
+.header fieldset button{
+    width:97px;
+    height:33px;
+    float:right;
+    margin-top:-98px;
+    border-radius: 20px;
+    color:white;
+    background-color:#01A730;
+    font-weight: bold;
+}
+.header fieldset p{
+    width:200px;
+    height:70px;
+    margin-top:70px;
+    font-size: 30px;
+}
+.j300{
+    margin-top:300px;
+}
+.content p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: lighter;
+}
+.StatusBar{
+    width: 430px;
+    height: 49px;
+}
+.k900{
+    float:right;
+    margin-top:-80px;
+    margin-right: 40px;
+}
+.l900{
+    float:right;
+    margin-top:-80px;
+    margin-right: 70px;
+}
+.p900{
+    float:right;
+    margin-top:-80px;
+    margin-right: 90px;
+}
+
+.StatusBar h5{
+    width: 40px;
+    height: 49px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+  
+}
